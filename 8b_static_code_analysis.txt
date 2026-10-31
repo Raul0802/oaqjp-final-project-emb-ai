@@ -1,0 +1,4 @@
+theia@theiadocker-raulpereirac:/home/project/final_project/Emotion-Detector---Final-Project$ pylint server.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.23/10, +0.77)
